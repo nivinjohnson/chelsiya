@@ -8,7 +8,7 @@ const Quit = () => {
         <div class="row d-flex justify-content-center m-2">
             <div class="col-sm-4 box">
                 <img src={pucham} alt="pucham" class="img-fluid rounded"/>
-                <Link to={`/`} class="btn btn-primary m-2"><i class="fas fa-home"></i> Home</Link>
+                <Link to={`/`} class="btn btn-primary m-2"><i class="fas fa-undo-alt"></i> Back</Link>
             </div>
         </div>
     );
